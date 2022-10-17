@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    background-color: black;
+}
+h3{
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: wheat;
+    padding: 1rem;
+}
+a:hover{
+    color: #f9004d;
+}
+.card{
+    text-align: center;
+    display: inline-block;
+    margin-left: 1vh;
+}
+
+.allcard{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+img{
+    width: 30vh;
+    height: 30vh;
+}
+
+body h6{
+    size: 20vh;
+}
+
